@@ -20,7 +20,7 @@ int main() {
 	int pilihan;
 
 
-	cout << "---------------------" << endl;
+	cout << "\n\n---------------------" << endl;
 	cout << "-------M E N U-------" << endl;
 	cout << "---------------------" << endl;
 
@@ -30,7 +30,7 @@ int main() {
 	cout << "4. Exit" << endl;
 	
 	cout << "Masukkan pilihan : ";
-
+	cin >> pilihan;
 
 	
 	system("cls");
