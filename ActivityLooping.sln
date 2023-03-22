@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ActivityLooping", "ActivityLooping\ActivityLooping.vcxproj", "{08DBCB1F-9701-4158-9ED9-567EEE4CF91E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Acivity_Looping2", "Acivity_Looping2\Acivity_Looping2.vcxproj", "{8A5F674C-BD15-4520-90B2-442475413476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{08DBCB1F-9701-4158-9ED9-567EEE4CF91E}.Release|x64.Build.0 = Release|x64
 		{08DBCB1F-9701-4158-9ED9-567EEE4CF91E}.Release|x86.ActiveCfg = Release|Win32
 		{08DBCB1F-9701-4158-9ED9-567EEE4CF91E}.Release|x86.Build.0 = Release|Win32
+		{8A5F674C-BD15-4520-90B2-442475413476}.Debug|x64.ActiveCfg = Debug|x64
+		{8A5F674C-BD15-4520-90B2-442475413476}.Debug|x64.Build.0 = Debug|x64
+		{8A5F674C-BD15-4520-90B2-442475413476}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A5F674C-BD15-4520-90B2-442475413476}.Debug|x86.Build.0 = Debug|Win32
+		{8A5F674C-BD15-4520-90B2-442475413476}.Release|x64.ActiveCfg = Release|x64
+		{8A5F674C-BD15-4520-90B2-442475413476}.Release|x64.Build.0 = Release|x64
+		{8A5F674C-BD15-4520-90B2-442475413476}.Release|x86.ActiveCfg = Release|Win32
+		{8A5F674C-BD15-4520-90B2-442475413476}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
